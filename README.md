@@ -1,16 +1,32 @@
-## Hi there 👋
+# Minjae Cho
 
-<!--
-**mjcho-lab/mjcho-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate Student at Seoul National University
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Seoul National University (SNU)**  
+2024 – Present
+
+- Primary Major: Computer Science and Engineering
+- Second Major: Mathematical Sciences
+
+## Research Interests
+
+- Medical Artificial Intelligence
+- Biomedical Informatics
+- Medical Image Analysis
+- Machine Learning and Deep Learning
+- Mathematical Foundations of Machine Learning
+
+## Current Focus
+
+- Reviewing research papers in medical AI
+- Developing reproducible machine learning projects
+- Studying mathematical foundations of AI
+
+## Technical Skills
+
+- Programming: Python
+- Machine Learning: PyTorch, scikit-learn
+- Data Analysis: NumPy, Pandas, Matplotlib
+- Tools: Git, GitHub
